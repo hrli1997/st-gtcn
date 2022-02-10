@@ -1,0 +1,4 @@
+消融实验：
+1.是否采用GAN结构
+2.将transformer换为全连接网络
+3.将tcn换为lstm网络
